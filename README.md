@@ -3,6 +3,7 @@
 ## Descripción
 
 Este proyecto consiste en una base de datos extraída mediante scraping de la página [Blockchair](https://blockchair.com/es/bitcoin/blocks/88708), la cual proporciona información detallada sobre los bloques de la blockchain de Bitcoin.
+Respecto al uso, el archivo unificado de los datos se encuentra en la carpeta blockchair_bitcoin_blocks_dta, descarguen y descompriman los archivos para su uso.
 
 ## Fuente de los Datos
 
